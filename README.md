@@ -1,2 +1,2 @@
-# CzmWin32
-CzmWin32 By CheneyThinker
+# CheneyWin32
+CheneyWin32 By CheneyThinker
